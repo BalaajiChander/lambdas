@@ -1,0 +1,2 @@
+# lambdas
+java lambdas sample
